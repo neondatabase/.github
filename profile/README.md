@@ -1,1 +1,2 @@
-![Neon](https://github.com/neondatabase/.github/assets/27310414/20487bed-5e6f-4a12-b016-5be7250c4021)
+
+![Neon](https://github.com/neondatabase/.github/assets/27310414/f026c202-e4dd-4393-803c-c9515387ec60)
