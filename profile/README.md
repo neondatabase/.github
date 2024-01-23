@@ -18,7 +18,7 @@ Explore [success stories](https://neon.tech/case-studies) to see more.
 
 ## 💚 Community
 
-Join us on [Discord](https://discord.com/invite/92vNTzKDGp) to chat with the Neon community, share, or ask questions.
+Join us on [Discord](https://neon.tech/discord) to chat with the Neon community, share, or ask questions.
 
 - Contribute to [Neon on GitHub](https://github.com/neondatabase/neon) by adding to the documentation, filing bug reports in [Neon issues](https://github.com/neondatabase/neon/issues), or opening [Pull Requests](https://github.com/neondatabase/neon/pulls) with contributions.
 
