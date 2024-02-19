@@ -1,5 +1,0 @@
-## Description
-
-## Timeline
-
-## Resources
