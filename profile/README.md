@@ -1,9 +1,9 @@
-[![Neon](https://user-images.githubusercontent.com/13738772/236813940-dcfdcb5b-69d3-449b-a686-013febe834d4.png)](https://neon.tech)
+[![Neon](https://user-images.githubusercontent.com/13738772/236813940-dcfdcb5b-69d3-449b-a686-013febe834d4.png)](https://neon.tech/github)
 
 <div align="center">
   <h1>Neon: Serverless Postgres</h1>
   <br />
-  <a href="https://neon.tech/docs/get-started-with-neon/signing-up">Get started</a>
+  <a href="https://neon.tech/github">Get started</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://neon.tech/docs/introduction">Docs</a>
   <br />
