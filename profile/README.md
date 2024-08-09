@@ -1,7 +1,7 @@
 [![Neon](https://github.com/user-attachments/assets/b2ede48e-c0c1-4335-91be-e7a1fa6ed6c4)](https://neon.tech/github)
 
 <div align="center">
-  <h1>Neon: Serverless Postgres</h1>
+  <h1>Neon: Ship Faster with Postgres</h1>
   <br />
   <a href="https://neon.tech/github">Get started</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
