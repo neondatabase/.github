@@ -1,4 +1,4 @@
-[![Neon](https://user-images.githubusercontent.com/13738772/236813940-dcfdcb5b-69d3-449b-a686-013febe834d4.png)](https://neon.tech/github)
+[![Neon](https://private-user-images.githubusercontent.com/11527560/331728531-f15a17f0-836e-40c5-b35d-030606a6b660.png)](https://neon.tech/github)
 
 <div align="center">
   <h1>Neon: Serverless Postgres</h1>
