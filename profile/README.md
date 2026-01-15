@@ -1,24 +1,24 @@
-[![Neon](https://github.com/user-attachments/assets/b2ede48e-c0c1-4335-91be-e7a1fa6ed6c4)](https://neon.tech/github)
+[![Neon](https://github.com/user-attachments/assets/fd91da5f-44a9-41c7-9075-36a5b5608083)](https://neon.com/)
 
 <div align="center">
-  <h1>Neon: Ship Faster with Postgres</h1>
+  <h1>Neon Postgres</h1>
   <br />
-  <a href="https://neon.tech/github">Get started</a>
+  <a href="https://neon.com/signup">Get started</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://neon.tech/docs/introduction">Docs</a>
+  <a href="https://neon.com/docs/introduction">Docs</a>
   <br />
   <hr />
 </div>
 
-Neon is Serverless Postgres built for the cloud. Neon separates compute and storage to offer modern developer features such as autoscaling, branching, bottomless storage, and more. [Read the documentation to get started](https://neon.tech/docs/introduction).
+Neon is Serverless Postgres built for the cloud. Neon separates compute and storage to offer modern developer features such as autoscaling, branching, bottomless storage, and more. [Read the documentation to get started](https://neon.com/docs/introduction).
 
 ## Who's using Neon?
 
-Explore [success stories](https://neon.tech/case-studies) to see more.
+Explore [success stories](https://neon.com/case-studies) to see more.
 
 ## 💚 Community
 
-Join us on [Discord](https://neon.tech/discord) to chat with the Neon community, share, or ask questions.
+Join us on [Discord](https://neon.com/discord) to chat with the Neon community, share, or ask questions.
 
 - Contribute to [Neon on GitHub](https://github.com/neondatabase/neon) by adding to the documentation, filing bug reports in [Neon issues](https://github.com/neondatabase/neon/issues), or opening [Pull Requests](https://github.com/neondatabase/neon/pulls) with contributions.
 
